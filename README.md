@@ -10,23 +10,35 @@ You can click the Preview link to take a look at your changes.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T41K1&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=T41K1&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T41K1&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=T41K1&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 ## Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=T41K1&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="https://streak-stats.demolab.com?user=T41K1&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=T41K1&theme=radical&type=png)](https://github.com/DenverCoder1/github-readme-streak-stats)
+## Contribution Snake
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T41K1&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-[![Daily Quote](https://readme-daily-quotes.vercel.app/api?theme=dark)](https://github.com/cheehwatang/github-readme-daily-quotes)
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/T41K1/T41K1/output/github-contribution-grid-snake-dark.svg"
+    alt="github contribution snake"
+  />
+</p>
