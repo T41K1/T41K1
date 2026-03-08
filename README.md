@@ -7,6 +7,9 @@
 T41K1/T41K1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=T41K1&theme=radical&type=png)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T41K1&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
