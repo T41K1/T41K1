@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Taiki+Metoki+%F0%9F%87%AF%F0%9F%87%B5;LLM+%7C+GNN+%7C+AI+Drug+Discovery;Future+Kaggle+Master+%E2%AD%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Taiki+Metoki+%F0%9F%87%AF%F0%9F%87%B5;AI+%7C+ML+%7C+LLM+%7C+AI+Drug+Discovery;Kaggle+Expert+%F0%9F%A5%88%F0%9F%A5%88)](https://git.io/typing-svg)
 
 <div align="center">
 
