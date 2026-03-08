@@ -23,25 +23,6 @@
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=T41K1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T41K1&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### Trophy
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=T41K1&theme=tokyonight&no-frame=true&column=7)
-
-</div>
-
----
-
 ### Streak Stats
 
 <div align="center">
