@@ -8,6 +8,8 @@
 - Currently learning **LLM**, **Sequence Alignment**, and **AlphaFold3**
 - I want to be a **Master** in Kaggle
 
+[![CV](https://img.shields.io/badge/%F0%9F%93%84_View_CV-PDF-FF6B6B?style=for-the-badge)](./assets/cv.pdf)
+
 </div>
 
 ---
