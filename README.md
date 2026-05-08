@@ -8,7 +8,18 @@
 - Currently learning **LLM**, **Sequence Alignment**, and **AlphaFold3**
 - I want to be a **Master** in Kaggle
 
-[![CV](https://img.shields.io/badge/%F0%9F%93%84_View_CV-PDF-FF6B6B?style=for-the-badge)](./assets/cv.pdf)
+</div>
+
+---
+
+### CV
+
+<div align="center">
+
+[![View CV](https://img.shields.io/badge/%F0%9F%93%84_View_CV-PDF-FF6B6B?style=for-the-badge)](./assets/cv.pdf)
+[![Download CV](https://img.shields.io/badge/%E2%AC%87_Download_CV-PDF-4ECDC4?style=for-the-badge)](./assets/cv.pdf?raw=true)
+
+詳細な経歴・スキルは上記のCV (PDF) をご覧ください。
 
 </div>
 
