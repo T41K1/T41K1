@@ -37,12 +37,6 @@
 
 ---
 
-### Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=T41K1&theme=tokyo-night&hide_border=true)
-
----
-
 ### Contribution Snake
 
 <div align="center">
