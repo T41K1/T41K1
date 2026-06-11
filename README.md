@@ -4,9 +4,9 @@
 
 ### About Me
 
-- I'm interested in **LLM** and **AI Drug Discovery**, in silico discovery
-- Currently learning **LLM**, **Sequence Alignment**, and **AlphaFold3**
-- I want to be a **Master** in Kaggle
+ I'm interested in **LLM** and **AI Drug Discovery**, in silico discovery
+ Currently learning **LLM**, **Sequence Alignment**, and **AlphaFold3**
+ I want to be a **Master** in Kaggle
 
 </div>
 
