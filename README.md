@@ -4,7 +4,6 @@
 
 **AI for Drug Discovery / Medical Imaging / LLM Post-training**
 
-横浜市立大学大学院 生命医科学研究科 構造細胞科学研究室 修士課程
 
 [![Homepage](https://img.shields.io/badge/Homepage-70A5FD?style=for-the-badge&logo=githubpages&logoColor=white)](https://t41k1.github.io)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/taiki2)
