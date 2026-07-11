@@ -22,7 +22,7 @@ M.S. Student, Structural & Cellular Science Lab, YCU
 M.S. student working across **both research and engineering** in AI drug discovery, medical imaging, and LLM post-training. Through research & dev internships at universities, national labs, and startups, I've built hands-on experience in bioinformatics, data science, and reinforcement learning.
 
 - 🔬 Research at the intersection of **AI drug discovery**, **LLM post-training** (RL / reasoning), and **AI safety**
-- 🏢 Research Intern **@ Matsuo Institute** · Research Assistant **@ LLM-jp** · Technical Trainee **@ AIST**
+- 🏢 Research Intern **@ Matsuo Institute** · Research Assistant **@ NII LLMC / LLM-jp** · Technical Trainee **@ AIST**
 - 🥈 **Kaggle Competition Expert** · 2× Silver — chasing Kaggle **Master** before I earn my Master's 🎓
 
 ---
