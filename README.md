@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Header Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&height=60&lines=Hi%2C+I'm+Taiki+Metoki+%F0%9F%91%8B;AI+Drug+Discovery+%C3%97+Medical+Imaging+%C3%97+LLM+%C3%97+AI+Safety;Kaggle+Competition+Expert+%F0%9F%A5%88%F0%9F%A5%88;M.S.+Student+%40+Yokohama+City+University)](https://github.com/T41K1)
+[![Header Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&height=60&lines=Hi%2C+I'm+Taiki+Metoki+%F0%9F%91%8B;AI+Drug+Discovery+%C3%97+Medical+Imaging+%C3%97+LLM+%C3%97+AI+Safety;Kaggle+Competition+Expert+%F0%9F%A5%88%F0%9F%A5%88;M.S.+Student+%40+YCU)](https://github.com/T41K1)
 
 **AI for Drug Discovery / Medical Imaging / LLM Post-training / AI Safety**
 
-M.S. Student, Structural & Cellular Science Lab, Yokohama City University
+M.S. Student, Structural & Cellular Science Lab, YCU
 
 [![Homepage](https://img.shields.io/badge/Homepage-70A5FD?style=for-the-badge&logo=githubpages&logoColor=white)](https://t41k1.github.io)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/taiki2)
