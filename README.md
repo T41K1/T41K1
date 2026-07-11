@@ -21,10 +21,9 @@ M.S. Student, Structural & Cellular Science Lab, Yokohama City University
 
 M.S. student working across **both research and engineering** in AI drug discovery, medical imaging, and LLM post-training. Through research & dev internships at universities, national labs, and startups, I've built hands-on experience in bioinformatics, data science, and reinforcement learning.
 
-- 🔬 **Research focus** — AI Drug Discovery, Medical Imaging, LLM Post-training (RL / reasoning)
-- 🏢 **Currently** — AIST (AI drug discovery) · LLM-jp (RA / LLM post-training) · Matsuo Institute
-- 🥈 **Kaggle Competition Expert** — Silver Medal × 2
-- 🎯 **Goal** — Kaggle Master / build AI that works in the real world
+- 🔬 Building AI where **biology, medicine, and language** meet — drug discovery, medical imaging, and LLM post-training (RL / reasoning)
+- 🏢 Research Intern **@ Matsuo Institute** · Research Assistant **@ LLM-jp** · Technical Trainee **@ AIST**
+- 🥈 **Kaggle Competition Expert** · 2× Silver — chasing Kaggle **Master** before I earn my Master's 🎓
 
 ---
 
@@ -66,9 +65,6 @@ M.S. student working across **both research and engineering** in AI drug discove
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=T41K1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T41K1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 ![Streak Stats](https://streak-stats.demolab.com?user=T41K1&theme=tokyonight&hide_border=true)
 
